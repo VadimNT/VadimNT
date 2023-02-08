@@ -1,3 +1,6 @@
+# Hello World, I'm [Vadim] ![](https://github.com/VadimNT) 
+### Python developer from Russia 🇷🇺
+
 ## My projects
 
 |  Задача | Ссылка на проект  |
