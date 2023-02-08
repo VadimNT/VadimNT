@@ -7,3 +7,6 @@
 |  API для блога авторов | [ API by Blog](https://github.com/VadimNT/api_final_yatube " API by Blog") |
 |  Телеграмм-бот |   [Telegram-bot](https://github.com/VadimNT/homework_bothttp:// "Telegram-bot")|
 |  Продуктовый помошник |[Product manager](https://github.com/VadimNT/homework_bothttp:// "Telegram-bot")|
+
+
+<a href="https://leetcode.com/smile-nt/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height=25 alt="leetcode"></a></br>
