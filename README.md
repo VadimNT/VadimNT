@@ -1,4 +1,4 @@
-# Hello World, I'm Vadim Belozerov![](https://github.com/VadimNT) 
+# Hello World, I'm [Vadim Belozerov!](https://github.com/VadimNT) 
 ### Python developer from Russia 🇷🇺
 
 ## My projects:
